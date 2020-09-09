@@ -1,0 +1,18 @@
+body {
+background-image: url("freedom.jpg");
+background-repeat: no-repeat;
+background-size: auto;
+text-align: center;
+width: 1000px;
+padding: 350px;
+margin: auto;
+p{
+	text-align: center;
+	font-size: 20px;
+}
+}
+.para {
+	font-family: "Arial";
+	font-size: 50px;
+	
+}
